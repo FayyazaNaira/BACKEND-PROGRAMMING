@@ -10,8 +10,8 @@ class Animal{
 
 
     public function index(){
-        foreach($this->fauna as $anim){
-            echo $anim;
+        foreach($this->fauna as $satwa){
+            echo $satwa;
         }
     }
 
